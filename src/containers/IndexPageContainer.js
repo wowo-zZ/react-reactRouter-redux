@@ -4,7 +4,7 @@ import {connect} from 'react-redux'
 import {IndexPage} from '../components'
 
 const mapStateToProps = state => {
-  console.log(state)
+
   return {
     courseList: 'bbb'
   }
